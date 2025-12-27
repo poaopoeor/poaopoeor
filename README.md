@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'm Nyi Nyi Thant Zin Hein
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Rust and Flutter.
 - 👯 I’m looking to collaborate on Mobile app development and Backend development.
 - 📫 How to reach me: nyinyithantzinhein@gmail.com
 
